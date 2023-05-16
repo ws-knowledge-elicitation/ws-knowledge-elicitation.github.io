@@ -1,8 +1,8 @@
-## Workshop on Data Collection and Knowledge Modeling for Human-Aware Systems
+## Workshop on Knowledge Elicitation: Data Collection and Knowledge Modeling for Human-Aware Systems
 
 ### Call for Participation
 
-We invite researchers and practitioners to participate in the Workshop on Data Collection and Knowledge Modeling for Human-Aware Systems, to be held during the WASP-HS Annual Conference on AI for Humanity and Society 2023, on November 14th in Malmö, Sweden.
+We invite researchers and practitioners to participate in the Workshop on Knowledge Elicitation: Data Collection and Knowledge Modeling for Human-Aware Systems, to be held during the WASP-HS Annual Conference on AI for Humanity and Society 2023, on November 14th in Malmö, Sweden.
 
 Knowledge elicitation regards methods and techniques for extracting knowledge from domain experts to create structured descriptions of a domain. It involves analyzing qualitative data, such as interview transcripts, to identify concepts and relations of the domain. An overall aim in knowledge elicitation is to develop common vocabulary and semantics to enable representing, sharing, and reusing the elicited knowledge across human-system boundaries. In the field of Artificial Intelligence (AI), such knowledge models, typically implemented in the form of ontologies, can be integrated into knowledge-based intelligent systems to enable context-aware reasoning and decision-making capabilities.
 
