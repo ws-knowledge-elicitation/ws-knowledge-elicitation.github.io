@@ -23,7 +23,7 @@ Submissions and any questions are sent to: [andreasb@cs.umu.se](mailto:andreasb@
 
 **Important Dates:**
 - Registration Deadline: August 15, 2023
-- Abstract Submission Deadline: July 30, 2023
+- Abstract Submission Deadline: August 15, 2023
 - Workshop Date: November 14, 2023, 09.00 – 12.00
 
 ### Program
