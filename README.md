@@ -19,6 +19,8 @@ One of the main challenges of knowledge elicitation is capturing the important i
 
 We invite participants to submit abstracts for short talks (10 minutes) focused on sharing experiences in knowledge elicitation, and particularly highlighting one methodology for this, how it is conducted, its strengths and challenges, and its typical aims and outcomes.
 
+Abstracts are not required for ordinary participation in the workshop.
+
 Submissions and any questions are sent to: [andreasb@cs.umu.se](mailto:andreasb@cs.umu.se)
 
 **Important Dates:**
