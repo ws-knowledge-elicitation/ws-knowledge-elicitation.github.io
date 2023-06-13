@@ -15,13 +15,15 @@ One of the main challenges of knowledge elicitation is capturing the important i
 - What are the effective knowledge formats to support knowledge sharing between humanities, social sciences, and computing science?
 - How can we ensure that elicited knowledge is accurate and complete?
 
-### Call for Abstracts
+### Call for Workshop Participation
 
-We invite participants to submit abstracts for short talks (10 minutes) focused on sharing experiences in knowledge elicitation, and particularly highlighting one methodology for this, how it is conducted, its strengths and challenges, and its typical aims and outcomes.
+We invite individuals to participate in the workshop through two different roles: as a speaker or as an ordinary participant.
 
-Abstracts are not required for ordinary participation in the workshop.
+As a speaker, we kindly request the submission of short abstracts for 10-minute talks. These abstracts should concentrate on sharing experiences in knowledge elicitation, emphasizing a specific methodology employed, its implementation process, inherent strengths and challenges, as well as its typical aims and outcomes.
 
-Submissions and any questions are sent to: [andreasb@cs.umu.se](mailto:andreasb@cs.umu.se)
+For ordinary participants, abstract submissions are not necessary. Instead, we encourage you to provide a description of your motivation for attending the workshop and any past experiences you have in knowledge elicitation, if applicable.
+
+Please direct your submission and/or registration to: [andreasb@cs.umu.se](mailto:andreasb@cs.umu.se)
 
 **Important Dates:**
 - Registration Deadline: September 15, 2023
