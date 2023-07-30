@@ -19,14 +19,16 @@ One of the main challenges of knowledge elicitation is capturing the important i
 
 We invite individuals to participate in the workshop through two different roles: as a speaker or as an ordinary participant.
 
-As a speaker, we kindly request the submission of short abstracts for 10-minute talks. These abstracts should concentrate on sharing experiences in knowledge elicitation, emphasizing a specific methodology employed, its implementation process, inherent strengths and challenges, as well as its typical aims and outcomes.
+As a speaker, we kindly request the submission of 1-page abstracts for 10-minute talks. These abstracts should concentrate on sharing experiences in knowledge elicitation, emphasizing a specific methodology employed, its implementation process, inherent strengths and challenges, as well as its typical aims and outcomes.
 
 For ordinary participants, abstract submissions are not necessary. Instead, we encourage you to provide a description of your motivation for attending the workshop and any past experiences you have in knowledge elicitation, if applicable.
 
-Please direct your submission and/or registration to: [andreasb@cs.umu.se](mailto:andreasb@cs.umu.se)
+Workshop registration form: [https://forms.gle/YVmTYYkgmaD1HMpv5](https://forms.gle/YVmTYYkgmaD1HMpv5)
+
+For speakers, please submit your abstract as a single PDF-file to: [andreasb@cs.umu.se](mailto:andreasb@cs.umu.se)
 
 **Important Dates:**
-- Registration Deadline: September 15, 2023
+- Registration Deadline: October 15, 2023
 - Abstract Submission Deadline: September 15, 2023
 - Workshop Date: November 14, 2023, 09.00 – 12.00
 
