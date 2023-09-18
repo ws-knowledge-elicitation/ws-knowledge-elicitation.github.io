@@ -28,8 +28,8 @@ Workshop registration form: [https://forms.gle/YVmTYYkgmaD1HMpv5](https://forms.
 For speakers, please submit your abstract as a single PDF-file to: [andreasb@cs.umu.se](mailto:andreasb@cs.umu.se)
 
 **Important Dates:**
-- Registration Deadline: October 15, 2023
-- Abstract Submission Deadline: September 15, 2023
+- Registration Deadline: October 28, 2023 (Extended)
+- Abstract Submission Deadline: October 28, 2023 (Extended)
 - Workshop Date: November 14, 2023, 09.00 – 12.00
 
 ### Program
